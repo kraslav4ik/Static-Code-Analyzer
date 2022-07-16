@@ -3,7 +3,7 @@ Tool for searching the most common syntax mistakes:
 * Indentation
 * TODO comments
 * Blank lines
-* Variable, functions, class names
+* Variable names
 * Mutable variables in function args
 * Default arguments values
 
