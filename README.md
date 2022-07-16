@@ -24,7 +24,7 @@ Static-Code-Analyzer/> python ./analyzer/code-analyzer.py
 Run tests:
 
 ```bash
-Static-Code-Analyzer/> python ./test/tests.py
+Static-Code-Analyzer/> python ./tests.py
 ```
 
 Tests are provided by JetBrains Academy
