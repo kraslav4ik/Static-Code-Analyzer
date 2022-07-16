@@ -5,7 +5,7 @@ Tool for searching the most common syntax mistakes:
 * Blank lines
 * Variable, functions, class names
 * Mutable variables in function args
-* Checking default arguments values
+* Default arguments values
 
 Program takes path to directory, containing python files or path to python file and checks if ".py" files has the most wide-spread syntax mistakes
 
