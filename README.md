@@ -15,13 +15,13 @@ Works with: Python 3.8
 Static-Code-Analyzer/> pip install -r ./requrements.txt
 ```
 
-Run analyzer:
+## Run analyzer
 
 ```bash
 Static-Code-Analyzer/> python ./analyzer/code-analyzer.py
 ```
 
-Run tests:
+## Run tests
 
 ```bash
 Static-Code-Analyzer/> python ./tests.py
