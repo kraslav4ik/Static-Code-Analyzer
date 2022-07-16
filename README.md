@@ -1,5 +1,5 @@
 # Static Code Analyzer
-Tool for searching the most common syntax mistake:
+Tool for searching the most common syntax mistakes:
 * Indentation
 * TODO comments
 * Blank lines
@@ -7,7 +7,7 @@ Tool for searching the most common syntax mistake:
 * Mutable variables in function args
 * Checking default arguments values
 
-Program takes path to directory, containing python files or path to python file and checks if ".py" files has the most common syntax mistakes
+Program takes path to directory, containing python files or path to python file and checks if ".py" files has the most wide-spread syntax mistakes
 
 Works with: Python 3.8
 
