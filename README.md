@@ -11,6 +11,10 @@ Program takes path to directory, containing python files or path to python file 
 
 Works with: Python 3.8
 
+```bash
+Static-Code-Analyzer/> pip install -r ./requrements.txt
+```
+
 Run analyzer:
 
 ```bash
@@ -22,11 +26,8 @@ Run tests:
 ```bash
 Static-Code-Analyzer/> python ./test/tests.py
 ```
-```bash
-Static-Code-Analyzer/> pip install -r ./requrements.txt
-```
 
-Test provided by JetBrains Academy
+Tests are provided by JetBrains Academy
 
 Project made as a part of JetBrains Academy course 
 
