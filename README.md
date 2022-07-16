@@ -3,10 +3,28 @@ Completed HyperSkill project "Static code analyzer"
 
 https://hyperskill.org/projects/112?category=1&track=2 
 
-Program takes path to directory, containing python files or path to python file and checks if ".py" files has the most common syntax mistakes(indentation, TODO comments, blank lines, variable, functions, class names, mutable variables in function args, and checking default arguments values using abstract syntax tree)
+Program takes path to directory, containing python files or path to python file and checks if ".py" files has the most common syntax mistakes:
+-Indentation
+-TODO comments
+-Blank lines
+-Variable, functions, class names
+-Mutable variables in function args
+-Checking default arguments values
 
-Python 3.8
+Works with: Python 3.8
 
-Launch tests and src files from root dir
+Run analyzer:
 
-All tests were made by HiperSkill
+```bash
+Static-code-analyzer/> python ./analyzer/code-analyzer.py
+```
+
+Run tests:
+
+```bash
+Static-code-analyzer/> python ./test/tests.py
+```
+
+Test provided by JetBrains Academy
+
+Project made as a part of JetBrains Academy course 
